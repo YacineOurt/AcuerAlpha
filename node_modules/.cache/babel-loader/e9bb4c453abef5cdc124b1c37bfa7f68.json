@@ -1,0 +1,1 @@
+{"ast":null,"code":"function e(e) {\n  return \"object\" == typeof e && e.hasOwnProperty(\"value\");\n}\n\nexport { e as isDesignToken };","map":null,"metadata":{},"sourceType":"module"}

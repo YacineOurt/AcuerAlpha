@@ -1,0 +1,1 @@
+{"ast":null,"code":"var a = {\n  small: {\n    value: \"1.25\"\n  },\n  medium: {\n    value: \"1.5\"\n  },\n  large: {\n    value: \"2\"\n  }\n};\nexport { a as lineHeights };","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"'use strict';\n\nObject.defineProperty(exports, '__esModule', {\n  value: true\n});\nvar IS_PRODUCTION = process.env.NODE_ENV === 'production';\nexports.IS_PRODUCTION = IS_PRODUCTION;","map":null,"metadata":{},"sourceType":"script"}
