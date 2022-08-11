@@ -14,7 +14,7 @@ function App() {
           {routes.map((route, index) => {
             return (
               <Route
-                key={index}
+                key= {index}
                 path={route.path}
                 exact={route.exact}
                 component={withTracker((props) => {
